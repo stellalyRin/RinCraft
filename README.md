@@ -7,7 +7,7 @@
 # RinCraft 八·三事变 情况说明
 
 由 RinCraft 前 Operator **星澜音stellalyRin** 主要编写<br>
-于 **2025 年 8 月 4 日**，第 **1** 版<br>
+于 **2025 年 10 月 3 日**，第 **2** 版<br>
 **任何人均可以使用该《情况说明》中的任意部分，但不得修改或扭曲**
 
 </div>
@@ -152,7 +152,7 @@ zackzheng1121 于 23:02 正式决定在 RinHub 宣布 RinCraft 独立的消息�
 
 ![对 RinLit 心情的评论](./assets/Chapter_3/Part_3/02_comments.jpg)
 
-晚 23:36，unDefFtr 请求 星澜音 介入 RinHub 进行劝阻，星澜音 进入 RinHub 后呼吁全体成员冷静，但由于全群气焰过于高亢，发言密集且充满对立，无人能够平静地回应调解，且身为群主的 RinLit 带头对管理层中的 星澜音 发动攻击，招惹了大部分人的跟随，甚至在攻击结束后仍然告诉 星澜音「不要对号入座」，引起管理层愤怒。RinHub 中的 quojsx 连续批判管理层，XieXiLin 在群内大量发表情绪化和离题的内容。原口正来天皇 在群内疯狂起哄，几乎无法沟通。一般路过雷批 作为 RinCraft 的中立派尝试稳定全群节奏，引导理性讨论，但没有成功。
+晚 23:36，unDefFtr 请求 星澜音 介入 RinHub 进行劝阻，星澜音 进入 RinHub 后呼吁全体成员冷静，但由于全群气焰过于高亢，发言密集且充满对立，无人能够平静地回应调解，且身为群主的 RinLit 带头对管理层中的 星澜音 发动攻击，招惹了大部分人的跟随，甚至在攻击结束后仍然告诉 星澜音「不要对号入座」，引起管理层愤怒。RinHub 中的 quojsx 连续批判管理层，XieXiLin 在群内大量发表情绪化和离题的内容。亦有部分群成员在群内疯狂起哄，几乎无法沟通。一般路过雷批 作为 RinCraft 的中立派尝试稳定全群节奏，引导理性讨论，但没有成功。
 
 ![聊天记录](./assets/Chapter_3/Part_3/03_chat_log.jpg)
 ![聊天记录](./assets/Chapter_3/Part_3/04_chat_log.jpg)
@@ -167,7 +167,7 @@ zackzheng1121 于 23:02 正式决定在 RinHub 宣布 RinCraft 独立的消息�
 ![聊天记录](./assets/Chapter_3/Part_3/10_chat_log.jpg)
 ![聊天记录](./assets/Chapter_3/Part_3/11_chat_log.jpg)
 
-8 月 4 日凌晨 00:00，群内激烈的争论逐渐平息，RinLit 要求 unDefFtr 提供服务器存档副本，并宣布今后不再参与 unDefFtr 的 RinCraft。原口正来天皇 等成员仍在发表调侃或批评管理层的言论。管理层的一名人员向 RinLit 提供了 8 月 3 日夜间的管理层群聊聊天记录，RinLit 随后在 RinHub 群内分享并评论了这些内容。
+8 月 4 日凌晨 00:00，群内激烈的争论逐渐平息，RinLit 要求 unDefFtr 提供服务器存档副本，并宣布今后不再参与 unDefFtr 的 RinCraft。亦有部分成员仍在发表调侃或批评管理层的言论。管理层的一名人员向 RinLit 提供了 8 月 3 日夜间的管理层群聊聊天记录，RinLit 随后在 RinHub 群内分享并评论了这些内容。
 随后，一般路过雷批 尝试与 RinLit 沟通，指出 RinLit 在拆除告示牌前未与原作者沟通的问题。RinLit 则强调时间效率和多数人利益优先的原则。双方在「是否应该等待沟通」以及「管理原则（多数优先还是个体权益）」上存在根本分歧，最终未能达成共识，沟通中止。RinLit 表示不再与持反对意见的群友争论。
 
 ![聊天记录](./assets/Chapter_3/Part_3/12_chat_log.jpg)
