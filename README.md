@@ -7,7 +7,7 @@
 # RinCraft 八·三事变 情况说明
 
 由 RinCraft 前 Operator **星澜音stellalyRin** 主要编写<br>
-于 **2025 年 10 月 3 日**，第 **2** 版<br>
+于 **2025 年 10 月 3 日**，第 **3** 版<br>
 **任何人均可以使用该《情况说明》中的任意部分，但不得修改或扭曲**
 
 </div>
@@ -182,11 +182,21 @@ zackzheng1121 于 23:02 正式决定在 RinHub 宣布 RinCraft 独立的消息�
 ![聊天记录](./assets/Chapter_3/Part_3/21_chat_log.jpg)
 ![聊天记录](./assets/Chapter_3/Part_3/22_chat_log.jpg)
 
-凌晨 00:30 许，星澜音 宣布退出 RinHub 群聊，并从今往后不再干涉 RinLit、RinHub、RinCraft 和 Class Widgets 的一切事务。同时 星澜音 通过 QQ 私信尝试获悉 RinLit 状态并给予安慰，但 RinLit 仅用草草几句作出回应。凌晨 00:40 许，unDefFtr 在管理层群聊中声明服务器被获取 Shell 权限且正在经历 DDoS 攻击，管理层一位人员将该消息转发给 RinLit，RinLit 将该消息设置为群公告并标注为「喜报」。凌晨 01:00 许，unDefFtr 宣布永久关闭 RinCraft 服务器，并决定销毁存有 RinCraft 服务器的硬盘。早上 06:20 许，星澜音 在所有平台屏蔽 RinLit，并在 Hazelita 群内移除了与此次事件高度相关的成员。
+凌晨 00:30 许，星澜音 宣布退出 RinHub 群聊，并从今往后不再干涉 RinLit、RinHub、RinCraft 和 Class Widgets 的一切事务。同时 星澜音 通过 QQ 私信尝试获悉 RinLit 状态并给予安慰，但 RinLit 仅用草草几句作出回应。凌晨 00:40 许，unDefFtr 在管理层群聊中声明服务器被获取 Shell 权限且正在经历 DDoS 攻击，管理层一位人员将该消息转发给 RinLit，RinLit 将该消息设置为群公告并标注为「喜报」。凌晨 01:00 许，unDefFtr 宣布永久关闭 RinCraft 服务器，并决定销毁存有 RinCraft 服务器的硬盘。早上 06:20 许，星澜音 在所有平台屏蔽 RinLit，在 Hazelita 群内移除了与此次事件高度相关的成员，并于后续几天宣布对 RinLit 的反对状态。
+
+8 月 5 日，unDefFtr 退出了多个含 RinLit 的群聊。
+
+![unDefFtr 退出群聊](https://private-user-images.githubusercontent.com/209760655/474246903-e7f28559-fa7a-4ece-bef7-28db4f2d1ddd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk0NjkzOTcsIm5iZiI6MTc1OTQ2OTA5NywicGF0aCI6Ii8yMDk3NjA2NTUvNDc0MjQ2OTAzLWU3ZjI4NTU5LWZhN2EtNGVjZS1iZWY3LTI4ZGI0ZjJkMWRkZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwM1QwNTI0NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MWE1OGIxZDUwZTQwMDczMjM1OWFjM2Q2ZmJhYTc2NTEyMWI0N2E0MDZhNDIzNzMwNmViZjJhN2I0NDA5OGYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gDWBZh5pJWBxuYaGX2Vc6U0oIM5G-nWqXhY10Y-MB5k)
+
+随后 灵魂歌手er 退出了 Class Widgets 群聊，并宣布与 RinLit 及 RinLit 旗下相关的一切项目解除关系。
+
+![灵魂歌手er 退出群聊](https://private-user-images.githubusercontent.com/158786854/474266161-566e073a-f911-4897-bf0d-8a38e33e2bc8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk0NjkzOTcsIm5iZiI6MTc1OTQ2OTA5NywicGF0aCI6Ii8xNTg3ODY4NTQvNDc0MjY2MTYxLTU2NmUwNzNhLWY5MTEtNDg5Ny1iZjBkLThhMzhlMzNlMmJjOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwM1QwNTI0NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMzI2OGUyMmY1YTllN2YyYWJjZDc3MTdiMzdkZTk5ZDJlYzBkNDkxNDliMTQ3YmY2MjVkMjU1MDMzNTIzNzBmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kW_dHi3OXmzKxmSiEOI5TRZAgmb5xvSAnvR_gjDTRIo)
 
 ## Chapter IV · 后记
 
 > 当这场风暴的余波渐息，我们凝视的不仅是散落的建筑方块与消逝的指令痕迹，更是一个关于共同体治理的深刻教训。事变中无真正的胜者，唯有被损耗的信任与集体心血。谨以冷峻之笔剖析根源，愿此镜鉴照亮未来征途。
+
+![jiangyin14 对 RinCraft 八·三事变 的评价](https://private-user-images.githubusercontent.com/158786854/474268493-92901c17-d663-4952-8403-9557f7a5f5e4.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk0NjkzOTcsIm5iZiI6MTc1OTQ2OTA5NywicGF0aCI6Ii8xNTg3ODY4NTQvNDc0MjY4NDkzLTkyOTAxYzE3LWQ2NjMtNDk1Mi04NDAzLTk1NTdmN2E1ZjVlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwM1QwNTI0NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iODY1NGQxNDEwZDU4Yjc2OGE1OThlZjY4NTBkOWIxY2QwYTY0YWZlODNlYzUxNWMzOGRmOGMyM2QyOWQxMGU5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5eMR-zgwLO65-rOqUmitqiiiDvJTxrek4MrPXZJ76IA)
 
 整件事情中，最令我们寒心的，便是这样一个模糊而朦胧的「共同体」，在应对这样一场集体灾难时所展现出的混乱和无序性——所有人期许着这样一个，建立在以网络为纽带的所谓「亲密关系」的基础上，的虚拟的乌托邦，试图在 RinCraft 这样的互联网盛会上找到自己的归宿和价值。然而，这样的虚拟乌托邦并不长久，尤其是当我们过于依赖这一层我们自认为牢不可破却薄如蝉翼的「互联网」上的关系时，集体空间与个体表达之间强烈的矛盾，终将会化为利剑，刺穿每一位贡献者的炽热的心跳。
 
